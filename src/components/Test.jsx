@@ -16,7 +16,7 @@ const Test = () => {
       <p className="font-bold text-3xl">Before you get started</p>
       <p className="text-xl font-normal font-poppins">
         &quot;We won't share your answers with anyone.
-        <br /> (and wont tell you which friends said what about you).&quot;
+        <br /> (and wont tell you which friends said what about you)
       </p>
       <div className="flex flex-row gap-2 items-center justify-center">
         <h5 className="team-signature">
